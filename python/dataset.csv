@@ -1,0 +1,366 @@
+symptom,disease,medicine
+abdominal bloating,irritable bowel syndrome,probiotics
+acidity,acid reflux,omeprazole
+anxiety,anxiety disorder,SSRIs
+appetite changes,eating disorder,nutrition counseling
+arm pain,rotator cuff injury,physical therapy
+back stiffness,ankylosing spondylitis,NSAIDs
+bad breath,halitosis,antiseptic mouthwash
+bitter taste,oral thrush,antifungal medication
+blackouts,syncope,hydration
+blistering rash,contact dermatitis,topical steroids
+blurred vision,diabetic retinopathy,laser therapy
+burning sensation,neuropathy,nerve pain medication
+chest tightness,angina,nitroglycerin
+chronic fatigue,adrenal insufficiency,hormone therapy
+cognitive decline,dementia,acetylcholinesterase inhibitors
+cold sweats,anxiety disorder,antidepressants
+decreased libido,low testosterone,hormone therapy
+difficulty breathing,pulmonary embolism,oxygen therapy
+difficulty swallowing,esophageal stricture,dilation
+dizziness,orthostatic hypotension,fluid replacement
+dry eyes,sjogren's syndrome,artificial tears
+ear ringing,tinnitus,sound therapy
+excessive thirst,diabetes mellitus,insulin
+exhaustion,adrenal fatigue,hormone therapy
+fatigue,thyroid dysfunction,thyroid medication
+feeling of fullness,gastritis,antacids
+fever,infectious mononucleosis,rest and hydration
+frequent urination,urinary tract infection,antibiotics
+frozen shoulder,adhesive capsulitis,physical therapy
+grief,major depressive disorder,counseling
+gum bleeding,gingivitis,dental hygiene products
+hair loss,alopecia,topical minoxidil
+hallucinations,schizophrenia,antipsychotics
+hoarseness,laryngitis,voice rest
+hives,allergic reaction,antihistamines
+increased hunger,hyperglycemia,insulin
+insomnia,insomnia disorder,sleep aids
+itchy skin,psoriasis,topical steroids
+joint stiffness,rheumatoid arthritis,DMARDs
+lactose intolerance,lactose malabsorption,lactase supplements
+leg cramps,electrolyte imbalance,rehydration solutions
+low mood,major depressive disorder,antidepressants
+muscle weakness,neuromuscular disorder,physical therapy
+nail changes,fungal infection,antifungal medication
+nausea,migraine,antiemetics
+neck pain,cervical spondylosis,NSAIDs
+night sweats,tuberculosis,antibiotics
+numbness,diabetes mellitus,nerve pain medication
+panic attacks,panic disorder,cognitive behavioral therapy
+persistent cough,whooping cough,vaccination
+persistent fever,tuberculosis,antibiotics
+poor concentration,ADHD,stimulants
+rash,allergic reaction,antihistamines
+red eyes,conjunctivitis,antibiotic eye drops
+sensation of pressure,sinusitis,decongestants
+sensitivity to light,meningitis,antibiotics
+shortness of breath,asthma,inhalers
+sore gums,gingivitis,antiseptic mouthwash
+sore nipples,breastfeeding issues,lanolin cream
+stomach cramps,irritable bowel syndrome,dietary changes
+swollen lymph nodes,lymphadenitis,antibiotics
+throbbing headache,migraine,triptan medication
+tiredness,iron deficiency anemia,iron supplements
+tooth sensitivity,dental caries,fluoride treatment
+trembling hands,Parkinson's disease,dopamine agonists
+twitching muscles,neuromuscular disorder,magnesium supplements
+unexplained bruising,thrombocytopenia,steroids
+vision changes,retinal detachment,surgery
+vomiting,hyperemesis gravidarum,antiemetics
+weight gain,hypothyroidism,thyroid hormone replacement
+wheezing,bronchitis,bronchodilators
+acne,acne vulgaris,topical retinoids
+constipation,irritable bowel syndrome,laxatives
+dehydration,diarrhea,rehydration solutions
+dry mouth,xerostomia,artificial saliva
+fatigue,sleep apnea,CPAP therapy
+fever,chickenpox,antipyretics
+gastroesophageal reflux,GERD,PPIs
+hair thinning,iron deficiency,iron supplements
+hand tremors,Parkinson's disease,dopamine agonists
+hay fever,allergic rhinitis,antihistamines
+hyperactivity,ADHD,stimulants
+irregular heartbeat,arrhythmia,antiarrhythmics
+low energy,thyroid dysfunction,thyroid medication
+muscle soreness,exercise-induced,ice packs
+nausea,sea sickness,antiemetics
+numbness,carpal tunnel syndrome,surgery
+panic disorder,panic attacks,antidepressants
+ringing in the ears,tinnitus,sound therapy
+sensitive skin,eczema,moisturizers
+sleep disturbances,insomnia,sleep aids
+sore throat,pharyngitis,lozenges
+tremors,essential tremor,beta-blockers
+unexplained weight loss,hyperthyroidism,antithyroid medication
+vision loss,macular degeneration,anti-VEGF therapy
+wheezing,allergic asthma,inhalers
+abdominal pain,gallstones,cholecystectomy
+acne,acne vulgaris,oral antibiotics
+anorexia,nutritional deficiency,therapy
+back pain,herniated disc,physical therapy
+blurry vision,diabetic retinopathy,insulin therapy
+bruising,coagulation disorder,vitamin K
+burning sensation,urinary tract infection,antibiotics
+chronic headaches,tension headache,NSAIDs
+cough,post-nasal drip,decongestants
+depression,major depressive disorder,antidepressants
+diarrhea,viral gastroenteritis,rehydration solutions
+dry skin,xerosis,emollients
+ear infection,otitis externa,antibiotics
+excessive fatigue,anemia,iron supplements
+excessive sweating,hypoglycemia,rehydration solutions
+fatigue,sleep apnea,CPAP therapy
+feeling of heaviness,thrombosis,anticoagulants
+frequent headaches,migraine,abortive medications
+frozen shoulder,adhesive capsulitis,physical therapy
+headaches,cluster headache,abortive medications
+hip pain,osteoarthritis,NSAIDs
+hot flashes,menopause,hormone replacement therapy
+impaired coordination,vestibular disorder,vestibular rehabilitation
+increased appetite,diabetes mellitus,insulin
+irregular periods,polycystic ovary syndrome,hormonal contraception
+itchy skin,hives,antihistamines
+jaw pain,TMJ disorder,occlusal splints
+knee pain,osteoarthritis,physical therapy
+lightheadedness,orthostatic hypotension,fluid replacement
+muscle stiffness,fibromyalgia,physical therapy
+neck stiffness,cervical spondylosis,NSAIDs
+nausea,vestibular disorder,antiemetics
+nightmares,PTSD,cognitive behavioral therapy
+numbness,diabetic neuropathy,nerve pain medication
+painful urination,urinary tract infection,antibiotics
+panic attacks,panic disorder,SSRIs
+persistent cough,chronic bronchitis,bronchodilators
+persistent vomiting,gastroparesis,antiemetics
+redness,rosacea,topical antibiotics
+restlessness,restless leg syndrome,dopamine agonists
+sensation of pressure,earwax blockage,ear drops
+shivering,flu,antipyretics
+sore throat,cold,throat lozenges
+stiff joints,arthritis,DMARDs
+sudden weight loss,hyperthyroidism,antithyroid medication
+tension headaches,muscle tension,NSAIDs
+thinning hair,alopecia,topical minoxidil
+tiredness,depression,antidepressants
+toothache,dental caries,analgesics
+tremors,Parkinson's disease,dopamine agonists
+vision problems,glaucoma,eye drops
+wheezing,asthma,inhalers
+abdominal cramps,diverticulitis,antibiotics
+acne,acne vulgaris,oral retinoids
+anemia,iron deficiency,iron supplements
+ankle pain,ankle sprain,rest and ice
+anxiety,panic disorder,therapy
+arm weakness,stroke,thrombolytics
+back pain,spinal stenosis,physical therapy
+blurry vision,retinal detachment,surgery
+bloating,irritable bowel syndrome,dietary changes
+burning eyes,allergic conjunctivitis,artificial tears
+chest pain,pericarditis,NSAIDs
+chronic cough,asthma,inhalers
+decreased appetite,anorexia,therapy
+dry eyes,allergies,artificial tears
+dry mouth,xerostomia,saliva substitutes
+ear pain,ear infection,antibiotics
+excessive thirst,diabetes mellitus,insulin
+fatigue,depression,antidepressants
+feeling faint,anemia,iron supplements
+frequent headaches,tension headaches,NSAIDs
+gastroesophageal reflux,acid reflux,dietary changes
+headaches,migraine,abortive medications
+symptom,disease,medicine
+abdominal bloating,irritable bowel syndrome,probiotics
+acidity,acid reflux,omeprazole
+anxiety,anxiety disorder,SSRIs
+appetite changes,eating disorder,nutrition counseling
+arm pain,rotator cuff injury,physical therapy
+back stiffness,ankylosing spondylitis,NSAIDs
+bad breath,halitosis,antiseptic mouthwash
+bitter taste,oral thrush,antifungal medication
+blackouts,syncope,hydration
+blistering rash,contact dermatitis,topical steroids
+blurred vision,diabetic retinopathy,laser therapy
+burning sensation,neuropathy,nerve pain medication
+chest tightness,angina,nitroglycerin
+chronic fatigue,adrenal insufficiency,hormone therapy
+cognitive decline,dementia,acetylcholinesterase inhibitors
+cold sweats,anxiety disorder,antidepressants
+decreased libido,low testosterone,hormone therapy
+difficulty breathing,pulmonary embolism,oxygen therapy
+difficulty swallowing,esophageal stricture,dilation
+dizziness,orthostatic hypotension,fluid replacement
+dry eyes,sjogren's syndrome,artificial tears
+ear ringing,tinnitus,sound therapy
+excessive thirst,diabetes mellitus,insulin
+exhaustion,adrenal fatigue,hormone therapy
+fatigue,thyroid dysfunction,thyroid medication
+feeling of fullness,gastritis,antacids
+fever,infectious mononucleosis,rest and hydration
+frequent urination,urinary tract infection,antibiotics
+frozen shoulder,adhesive capsulitis,physical therapy
+grief,major depressive disorder,counseling
+gum bleeding,gingivitis,dental hygiene products
+hair loss,alopecia,topical minoxidil
+hallucinations,schizophrenia,antipsychotics
+hoarseness,laryngitis,voice rest
+hives,allergic reaction,antihistamines
+increased hunger,hyperglycemia,insulin
+insomnia,insomnia disorder,sleep aids
+itchy skin,psoriasis,topical steroids
+joint stiffness,rheumatoid arthritis,DMARDs
+lactose intolerance,lactose malabsorption,lactase supplements
+leg cramps,electrolyte imbalance,rehydration solutions
+low mood,major depressive disorder,antidepressants
+muscle weakness,neuromuscular disorder,physical therapy
+nail changes,fungal infection,antifungal medication
+nausea,migraine,antiemetics
+neck pain,cervical spondylosis,NSAIDs
+night sweats,tuberculosis,antibiotics
+numbness,diabetes mellitus,nerve pain medication
+panic attacks,panic disorder,cognitive behavioral therapy
+persistent cough,whooping cough,vaccination
+persistent fever,tuberculosis,antibiotics
+poor concentration,ADHD,stimulants
+rash,allergic reaction,antihistamines
+red eyes,conjunctivitis,antibiotic eye drops
+sensation of pressure,sinusitis,decongestants
+sensitivity to light,meningitis,antibiotics
+shortness of breath,asthma,inhalers
+sore gums,gingivitis,antiseptic mouthwash
+sore nipples,breastfeeding issues,lanolin cream
+stomach cramps,irritable bowel syndrome,dietary changes
+swollen lymph nodes,lymphadenitis,antibiotics
+throbbing headache,migraine,triptan medication
+tiredness,iron deficiency anemia,iron supplements
+tooth sensitivity,dental caries,fluoride treatment
+trembling hands,Parkinson's disease,dopamine agonists
+twitching muscles,neuromuscular disorder,magnesium supplements
+unexplained bruising,thrombocytopenia,steroids
+vision changes,retinal detachment,surgery
+vomiting,hyperemesis gravidarum,antiemetics
+weight gain,hypothyroidism,thyroid hormone replacement
+wheezing,bronchitis,bronchodilators
+acne,acne vulgaris,topical retinoids
+constipation,irritable bowel syndrome,laxatives
+dehydration,diarrhea,rehydration solutions
+dry mouth,xerostomia,artificial saliva
+fatigue,sleep apnea,CPAP therapy
+fever,chickenpox,antipyretics
+gastroesophageal reflux,GERD,PPIs
+hair thinning,iron deficiency,iron supplements
+hand tremors,Parkinson's disease,dopamine agonists
+hay fever,allergic rhinitis,antihistamines
+hyperactivity,ADHD,stimulants
+irregular heartbeat,arrhythmia,antiarrhythmics
+low energy,thyroid dysfunction,thyroid medication
+muscle soreness,exercise-induced,ice packs
+nausea,sea sickness,antiemetics
+numbness,carpal tunnel syndrome,surgery
+panic disorder,panic attacks,antidepressants
+ringing in the ears,tinnitus,sound therapy
+sensitive skin,eczema,moisturizers
+sleep disturbances,insomnia,sleep aids
+sore throat,pharyngitis,lozenges
+tremors,essential tremor,beta-blockers
+unexplained weight loss,hyperthyroidism,antithyroid medication
+vision loss,macular degeneration,anti-VEGF therapy
+wheezing,allergic asthma,inhalers
+abdominal pain,gallstones,cholecystectomy
+acne,acne vulgaris,oral antibiotics
+anorexia,nutritional deficiency,therapy
+back pain,herniated disc,physical therapy
+blurry vision,diabetic retinopathy,insulin therapy
+bruising,coagulation disorder,vitamin K
+burning sensation,urinary tract infection,antibiotics
+chronic headaches,tension headache,NSAIDs
+cough,post-nasal drip,decongestants
+depression,major depressive disorder,antidepressants
+diarrhea,viral gastroenteritis,rehydration solutions
+dry skin,xerosis,emollients
+ear infection,otitis externa,antibiotics
+excessive fatigue,anemia,iron supplements
+excessive sweating,hypoglycemia,rehydration solutions
+fatigue,sleep apnea,CPAP therapy
+feeling of heaviness,thrombosis,anticoagulants
+frequent headaches,migraine,abortive medications
+frozen shoulder,adhesive capsulitis,physical therapy
+headaches,cluster headache,abortive medications
+hip pain,osteoarthritis,NSAIDs
+hot flashes,menopause,hormone replacement therapy
+impaired coordination,vestibular disorder,vestibular rehabilitation
+increased appetite,diabetes mellitus,insulin
+irregular periods,polycystic ovary syndrome,hormonal contraception
+itchy skin,hives,antihistamines
+jaw pain,TMJ disorder,occlusal splints
+knee pain,osteoarthritis,physical therapy
+lightheadedness,orthostatic hypotension,fluid replacement
+muscle stiffness,fibromyalgia,physical therapy
+neck stiffness,cervical spondylosis,NSAIDs
+nausea,vestibular disorder,antiemetics
+nightmares,PTSD,cognitive behavioral therapy
+numbness,diabetic neuropathy,nerve pain medication
+painful urination,urinary tract infection,antibiotics
+panic attacks,panic disorder,SSRIs
+persistent cough,chronic bronchitis,bronchodilators
+persistent vomiting,gastroparesis,antiemetics
+redness,rosacea,topical antibiotics
+restlessness,restless leg syndrome,dopamine agonists
+sensation of pressure,earwax blockage,ear drops
+shivering,flu,antipyretics
+sore throat,cold,throat lozenges
+stiff joints,arthritis,DMARDs
+sudden weight loss,hyperthyroidism,antithyroid medication
+tension headaches,muscle tension,NSAIDs
+thinning hair,alopecia,topical minoxidil
+tiredness,depression,antidepressants
+toothache,dental caries,analgesics
+tremors,Parkinson's disease,dopamine agonists
+vision problems,glaucoma,eye drops
+wheezing,asthma,inhalers
+abdominal cramps,diverticulitis,antibiotics
+acne,acne vulgaris,oral retinoids
+anemia,iron deficiency,iron supplements
+ankle pain,ankle sprain,rest and ice
+anxiety,panic disorder,therapy
+arm weakness,stroke,thrombolytics
+back pain,spinal stenosis,physical therapy
+blurry vision,retinal detachment,surgery
+bloating,irritable bowel syndrome,dietary changes
+burning eyes,allergic conjunctivitis,artificial tears
+chest pain,pericarditis,NSAIDs
+chronic cough,asthma,inhalers
+decreased appetite,anorexia,therapy
+dry eyes,allergies,artificial tears
+dry mouth,xerostomia,saliva substitutes
+ear pain,ear infection,antibiotics
+excessive thirst,diabetes mellitus,insulin
+fatigue,depression,antidepressants
+feeling faint,anemia,iron supplements
+frequent headaches,tension headaches,NSAIDs
+gastroesophageal reflux,acid reflux,dietary changes
+headaches,migraine,abortive medications
+high fever,meningitis,antibiotics
+insomnia,sleep disorder,sleep aids
+joint pain,osteoarthritis,NSAIDs
+loud breathing,obstructive sleep apnea,CPAP
+muscle cramps,dehydration,rehydration solutions
+muscle tightness,fibromyalgia,physical therapy
+nausea,food intolerance,dietary changes
+neck pain,cervical strain,NSAIDs
+painful periods,endometriosis,hormonal therapy
+persistent fatigue,Chronic Fatigue Syndrome,therapy
+pressure headache,sinusitis,decongestants
+rapid heartbeat,anxiety,beta-blockers
+sensitivity to light,migraine,sunglasses
+shortness of breath,anemia,iron supplements
+skin lesions,psoriasis,topical corticosteroids
+sore throat,pharyngitis,lozenges
+stomach pain,gastritis,antacids
+tiredness,thyroid dysfunction,thyroid hormone replacement
+tooth decay,dental caries,fluoride treatment
+tremors,essential tremor,beta-blockers
+unexplained fatigue,thyroid dysfunction,thyroid hormone replacement
+vision changes,macular degeneration,anti-VEGF therapy
+wheezing,bronchitis,bronchodilators
+cold,common cold,antihistamines
